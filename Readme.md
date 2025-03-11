@@ -2,7 +2,7 @@
 
 1. Download the latest json schema from here: https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema
 
-2. Create your own json and reference to it using $schema.
+2. Create your own json and add a reference to the json schema using $schema.
 
 3. Intellisense in VS Code should start working. 
 
