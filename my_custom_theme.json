@@ -1,0 +1,39 @@
+﻿{
+    "$schema": "./reportThemeSchema-2.140.json",
+    "name": "ChallengeTheme",
+    "background": "#0A1720",
+    "tiles": {
+        "background": "#0A1720"
+    },
+    "visualStyles": {
+        "cardVisual": {
+            "*": {
+                "referenceLabelTitle": [
+                  {
+                    "show": true,
+                    "titleFontColor": {
+                      "solid": {
+                        "color": "#252423"
+                      }
+                    },
+                    "titleFontFamily": "Arial",
+                    "titleFontSize": 12
+                  }
+                ],
+                "value": [
+                  {
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontColor": {
+                      "solid":{
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    "horizontalAlignment": "center",
+                    "showBlankAs": "--"
+                  }
+                ]
+            }
+        }
+    }
+}
